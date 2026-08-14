@@ -1,3 +1,5 @@
+<b>Checkpoint 2 – Explore the Three Cloud Platforms</b>
+
 Brief Overview
 
  Amazon Web Services (AWS) is part of the leading cloud computing platform that provides a wide range of services for building that can be deployed, and manage applications. Amazon Web Services (AWS) is a great choice and suitable for the Modern Technology now a days, it is because it offers quailty perfermance in cloud computing, storage, database, networking, entertainment, and use for education as well as for the great use of Artificial Intelegence(AI) technologies  through a global infrastructure designed to provide security, reliability, scalability, and provide high performance.
