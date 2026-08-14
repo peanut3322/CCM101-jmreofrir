@@ -1,3 +1,9 @@
+<b>Checkpoint 4 – Cloud Platform Recommendation Challenge</b> 
+
+CloudNova Technologies has received requests from four clients.
+Analyze each scenario and recommend the most appropriate cloud platform.
+
+
 <b> Client A – Startup Company </b> 
  A startup company wants to launch a new mobile application. Their budget is limited, but they expect rapid growth within the next few years.
 
@@ -54,14 +60,15 @@ A multinational online shopping company serves customers around the world and re
 
 
 <b>Checkpoint 6 – Multi-Cloud Decision Matrix </b> 
+
 Create a simple decision matrix recommending the best cloud provider for different business needs.
 
-  | Business Requirement | AWS | Microsoft Azure |
+  | Business Requirement |Recommended Platform | Justification |
 | :--- | :---: | :---: | 
-| Startup Company | | | 
-| Enterprise Organization | | | 
-| Microsoft Environment | | | 
-| AI / Machine Learning | | | 
-| Kubernetes Deployment | | | 
-| Global Web Application | | | 
+| Startup Company |Google Cloud Platform (GCP) |Highly generous free tiers, pay-as-you-go serverless options (Cloud Run & Firebase), and up to $200,000 to $350,000 USD in credits from the Google For Startups Cloud Program to get you up and running with financial runway. | 
+| Enterprise Organization |Amazon Web Services (AWS) |The organization should consider migrating to AWS because the cloud service provider offers a comprehensive service portfolio and geographic reach to support the most demanding enterprise workloads. | 
+| Microsoft Environment |Google Cloud Platform (GCP) |Easy single sign-on (SSO) experience via Google Cloud Directory Sync, and Sole-Tenant Nodes to Bring Your Own License (BYOL) to avoid paying for licenses twice are some of AWS’s offerings. | 
+| AI / Machine Learning |Microsoft Azure |Azure is the best option because of the compatibility with the Windows Server, Microsoft 365, and Microsoft Entra ID. | 
+| Kubernetes Deployment |Google Cloud (GCP) |Google Cloud’s TPUs allow for training deep learning and AI models up to 2-3 times faster than traditional cloud processors. | 
+| Global Web Application |Google Cloud (GCP) |Cloud Spanner ensures strong consistency, which helps avoid inventory overselling during traffic surges. | 
  
