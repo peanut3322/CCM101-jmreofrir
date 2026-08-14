@@ -20,8 +20,9 @@
    
 4. Which cloud platform would you personally choose and why?
    > I would choose Google Cloud Platform (GCP) as my cloud provider due to my interest in Artificial Intelligence, Machine Learning, and data analytics fields. GCP offers a wide range of products, such as Vertex AI, BigQuery, Compute Engine, and Google Kubernetes Engine. By using these products, I will be able to design and develop modern applications while learning new things related to the cloud computing sphere.
-   
-Checkpoint 5 – Match the Cloud Services   
+
+<b>Checkpoint 5 – Match the Cloud Services</b>   
+
 | Service Category | AWS | Azure | GCP |
 | :--- | :--- | :--- | :--- |
 | Virtual Machine | EC2(Elastic Compute Cloud) | Virtual Machines | Compute Engine |
