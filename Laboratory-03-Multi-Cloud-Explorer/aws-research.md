@@ -11,22 +11,23 @@ Cloud Management Console
  The Google Cloud Management is a secure, web-based "control panel" of the cloud.
  
 Four (4) Core Services
- > Compute (The Brain) - The actual muscle and brainpower.
+1. Compute (The Brain) - The actual muscle and brainpower.
 
- > Storage (The Filing Cabinet) -  A place where you stack or hold the raw data.Secure and Protected.
+2. Storage (The Filing Cabinet) -  A place where you stack or hold the raw data.Secure and Protected.
 
- > Database (The Organizer) - easily to retrive and stores data needed such as profiles, passwords, catalogs and transactions
+3. Database (The Organizer) - easily to retrive and stores data needed such as profiles, passwords, catalogs and transactions
 
- > Networking (The Roads and Walls) - Connecting people through internet even if the person is away.
- 
+4. Networking (The Roads and Walls) - Connecting people through internet even if the person is away. Even controls network traffic.
+   
 Three (3) Advantages
-  > Cost Flexibility - pay as you go easy payment.
+1.  Cost Flexibility - pay as you go easy payment.
 
-  > Instant Innovation - launch in a minutes, gains triple as you invest.
+2. Instant Innovation - launch in a minutes, gains triple as you invest.
 
-  > Built-In Disaster Recovery - not to worry, can save backup database without a glitch.
+3. Built-In Disaster Recovery - not to worry, can save backup database without a glitch.
 
 Typical Enterprise Use Cases
+
   > Mass Migration
 
   > Hybrid Cloud
