@@ -1,3 +1,5 @@
+<b>Checkpoint 2 – Explore the Three Cloud Platforms</b>
+
 Brief Overview
 
  Azure is Microsoft’s cloud platform for creating, deploying and can manage apps and services. It also provide compute, storage, networking, databases, analytics, and AI.
