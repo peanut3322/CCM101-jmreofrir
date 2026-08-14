@@ -1,3 +1,5 @@
+<b>Checkpoint 2 – Explore the Three Cloud Platforms</b>
+
 Brief Overview
 
  Google Cloud Platform (GCP), also known as Google Cloud, is a cloud computing platform developed by Google. It provides complete set of cloud services that can meet clients satisfaction as that has the qualty to compute, store data, analyze data and have continues learning that also provides machine learning. 
