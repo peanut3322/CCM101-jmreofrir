@@ -1,5 +1,4 @@
 <b> Client A – Startup Company </b> 
-
  A startup company wants to launch a new mobile application. Their budget is limited, but they expect rapid growth within the next few years.
 
 <b>Recommendation Platform:</b> Google Cloud Platform (GCP) 
@@ -13,13 +12,10 @@
 
 
 <b>Client B – University </b> 
-
 A university already uses:
 
 ●	Windows Server 
-
 ●	Microsoft 365 
-
 ●	Active Directory 
 
 The university wants to migrate some services to the cloud.
@@ -36,14 +32,23 @@ The university wants to migrate some services to the cloud.
 <b>Client C – AI Research Company </b>
 A research company develops Artificial Intelligence and Machine Learning applications that require high-performance computing.
 
-b>Recommendation Platform:</b>
+<b>Recommendation Platform:</b> Google Cloud Platform (GCP)
 
 <b>Explanation:</b> 
-
- 
+ Google Cloud Platform (GCP) is the best choice because it provides powerful computing resources designed for Artificial Intelligence (AI), Machine Learning (ML), and high-performance computing. For a accelerated infrastructure it needs a high Graphics Processing Unit (GPU) for Artificial Intellegence to be well maintained that Google Cloud Platform (GCP) has have. Google Cloud Platform (GCP) also provide the needs of computing resources that need in growing a research requirements. So, therefore Google Cloud Platform (GCP) is suitable for high performance comoputing. 
 
 <b>Services might use:</b> 
+  Vertex AI Platform, Custom TPUs & GPUs, Cloud Managed Lustre / Cloud Storage
  
 
 <b>Client D – Global E-Commerce Company </b>
 A multinational online shopping company serves customers around the world and requires highly available infrastructure with automatic scaling.
+
+<b>Recommendation Platform:</b> Google Cloud Platform (GCP)
+
+<b>Explanation:</b> 
+  Google Cloud is the premier platform for global e-commerce. By running the online shopping you need a wide web or service that GCP can help this is in terms of the traffic network of the transaction where as the GCP is suitable. It is also multi-region services that the service is always available with the availability of the zones.
+
+<b>Services might use:</b> 
+  Cloud Load Balancing, Cloud Spanner, Google Kubernetes Engine (GKE)
+ 
