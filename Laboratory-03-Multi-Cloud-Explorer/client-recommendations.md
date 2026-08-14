@@ -51,4 +51,17 @@ A multinational online shopping company serves customers around the world and re
 
 <b>Services might use:</b> 
   Cloud Load Balancing, Cloud Spanner, Google Kubernetes Engine (GKE)
+
+
+<b>Checkpoint 6 – Multi-Cloud Decision Matrix </b> 
+Create a simple decision matrix recommending the best cloud provider for different business needs.
+
+  | Business Requirement | AWS | Microsoft Azure |
+| :--- | :---: | :---: | 
+| Startup Company | | | 
+| Enterprise Organization | | | 
+| Microsoft Environment | | | 
+| AI / Machine Learning | | | 
+| Kubernetes Deployment | | | 
+| Global Web Application | | | 
  
