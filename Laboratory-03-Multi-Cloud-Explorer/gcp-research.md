@@ -14,7 +14,7 @@ Cloud Management Console
 
 Four (4) Core Services 
 
- The Four (4) Core Services of Google Cloud according to the Google Cloud Services (https://cloud.google.com/?hasState=true):
+ The Four (4) Core Services of Google Cloud according to the Google Cloud Services (https://cloud.google.com/?hasState=true) :
 1.  Compute Services - Run, manage, and deploys. Uses Compute Engine, Google Kubernetes Engine (GKE), and Cloud Run.
    
 2.  Storage & Databases - Protects raw information using storage and stores database in protected safe transactional information database. Uses Cloud Storage, Cloud SQL, Cloud Spanner, and AlloyDB.
