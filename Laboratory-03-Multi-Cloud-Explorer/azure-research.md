@@ -1,18 +1,18 @@
 <b>Checkpoint 2 – Explore the Three Cloud Platforms</b>
 
-Brief Overview
+<b>Brief Overview</b>
 
  Azure is Microsoft’s cloud platform for creating, deploying and can manage apps and services. It also provide compute, storage, networking, databases, analytics, and AI.
 
-Global Infrastructure
+<b>Global Infrastructure</b>
 
  Geography of azure are bound in Europe and United States as well it is has the "Availability Zones" for locally and globally. Globally have over 70 regions of datacenters  in a specific area.
  
-Cloud Management Console
+<b>Cloud Management Console</b>
 
  Azure portal in Cloud Management can create and manage resources like storage, networks, and web apps. Also monitor usage in guided actions, set up dashboards and alerts fore protected security and Open Cloud Shell and may access supported tools.
 
-Four (4) Core Services
+<b>Four (4) Core Services</b>
 
  At a high level Amazon Web Services (AWS) and Microsoft Azure has similar core services:
 
@@ -24,7 +24,7 @@ Four (4) Core Services
 
 4. Networking (The Roads and Walls) - Connecting people through internet even if the person is away. Even controls network traffic.
  
-Three (3) Advantages
+<b>Three (3) Advantages</b>
 
 1. Global scale and resilience - azure has a large worldwide infrastructure for high availability, disaster recovery, and low-latency access.
    
@@ -32,7 +32,7 @@ Three (3) Advantages
    
 3. AI capabilities — Azure offers a strong platform as the technology grows it is for building AI with Microsoft Foundry and a large model catalog.
    
-Typical Enterprise Use Cases
+<b>Typical Enterprise Use Cases</b>
 
  Common enterprise Azure use cases include according to the Website of Microsoft Azure (https://azure.microsoft.com/en-us):
  
