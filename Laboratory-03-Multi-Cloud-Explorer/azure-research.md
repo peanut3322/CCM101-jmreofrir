@@ -34,7 +34,7 @@ Three (3) Advantages
    
 Typical Enterprise Use Cases
 
- Common enterprise Azure use cases include according to the Website of Microsoft Azure(https://azure.microsoft.com/en-us):
+ Common enterprise Azure use cases include according to the Website of Microsoft Azure (https://azure.microsoft.com/en-us):
  
 > Cloud adoption and governance using the Cloud Adoption Framework
 
